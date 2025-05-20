@@ -6,7 +6,7 @@ This portfolio presents evidence of my participation in the Work Readiness Train
 ## Career Counselling
 
 ### Evidence
-![Career Counselling](evidence/career-counselling.png)
+![career-counselling](https://github.com/user-attachments/assets/7fdbf1f9-97fb-45c5-a867-d35750d3cd32)
 
 ### Reflection (STAR Technique)
 
@@ -20,7 +20,7 @@ This portfolio presents evidence of my participation in the Work Readiness Train
 ## Skills and Interests
 
 ### Evidence
-![Skills and Interest](evidence/slill-and-interests.png)
+![skills-and-interests](https://github.com/user-attachments/assets/525224cd-d744-455b-8f0c-8f3e4c86a7dd)
 
 ### Reflection (STAR Technique)
 
@@ -34,7 +34,7 @@ This portfolio presents evidence of my participation in the Work Readiness Train
 ## Personality Assessment
 
 ### Evidence
-![Personality](evidence/peronality.png)
+![personality](https://github.com/user-attachments/assets/1c1006d9-e243-410d-8b91-fbabae9a95a2)
 
 ### Reflection (STAR Technique)
 
@@ -48,7 +48,7 @@ This portfolio presents evidence of my participation in the Work Readiness Train
 ## Creating a Curriculum Vitae (CV)
 
 ### Evidence
-![Curriculum Vitae](evidence/create-cv.png)
+![create-cv](https://github.com/user-attachments/assets/32ae6775-53f1-414b-abe7-bc8a0f542515)
 
 ### Reflection (STAR Technique)
 
@@ -62,7 +62,7 @@ This portfolio presents evidence of my participation in the Work Readiness Train
 ## Curriculum Vitae (CV) Submission
 
 ### Evidence
-![CV Submission](evidence/cv-submission.png)
+![cv-submission](https://github.com/user-attachments/assets/81c4726b-978c-4b94-9ef1-50cb00c57aad)
 
 ### Reflection (STAR Technique)
 
